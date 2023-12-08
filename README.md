@@ -1,5 +1,5 @@
 # THE-QR-
-Hello Everyone, I have created a small project for my basic understanding This project is a simple QR Code Generator, designed to be my first step into backend web development using the Node.js framework. The QR Generator allows users to create QR codes based on input text. 
+Hello Everyone, I have created a small project QR Code Generator, designed to be my first step into backend web development using the Node.js framework. The QR Generator allows users to create QR codes based on input text. 
 
 <h2>Getting Started</h2>
 
