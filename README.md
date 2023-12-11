@@ -16,3 +16,9 @@ Hello Everyone, I have created a small project QR Code Generator, designed to be
 </br>
 3. inquirer: A collection of common interactive command line user interfaces.
 
+
+![npm](https://img.shields.io/npm/v/qr-image?logo=npm)
+![npm](https://img.shields.io/npm/v/inquirer?logo=npm)
+
+
+
