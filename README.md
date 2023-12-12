@@ -20,5 +20,13 @@ Hello Everyone, I have created a small project QR Code Generator, designed to be
 ![npm](https://img.shields.io/npm/v/qr-image?logo=npm)
 ![npm](https://img.shields.io/npm/v/inquirer?logo=npm)
 
+<h1>Frameworks!</h1>
+<div align="center">
+  
+![Static Badge](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=Node.JS&logoColor=black&color=%233fc70a)
+![Static Badge](https://img.shields.io/badge/NODEMON-%2523323330?style=for-the-badge&logo=Nodemon&logoColor=%233fc70a&color=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/NPM-%2523CB3837?style=for-the-badge&logo=npm&color=%23de0707)
 
+</div>
 
